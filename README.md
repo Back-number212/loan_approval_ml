@@ -6,12 +6,10 @@ An end-to-end Data Mining project that implements Supervised and Unsupervised Ma
 
 ## 📑 Table of Contents
 1. [Dataset Overview](#-dataset-overview)
-2. [Project Directory Structure](#-project-directory-structure)
-3. [Data Preprocessing Pipeline](#-data-preprocessing-pipeline)
-4. [Supervised Learning (Classification)](#-supervised-learning-classification)
-5. [Unsupervised Learning (Clustering)](#-unsupervised-learning-clustering)
-6. [Tech Stack & Libraries](#-tech-stack--libraries)
-7. [Installation & Usage](#-installation--usage)
+2. [Data Preprocessing Pipeline](#-data-preprocessing-pipeline)
+3. [Supervised Learning (Classification)](#-supervised-learning-classification)
+4. [Unsupervised Learning (Clustering)](#-unsupervised-learning-clustering)
+5. [Tech Stack & Libraries](#-tech-stack--libraries)
 
 ---
 
